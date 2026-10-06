@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Bases de datos locales
+*.db
+*.duckdb
+data/
+

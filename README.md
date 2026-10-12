@@ -6,4 +6,4 @@ Repositorio dedicado al scouting deportivo y análisis de datos de futbolistas. 
 
 Datos: [StatsBomb](https://statsbomb.com). Los datos de eventos son propiedad de StatsBomb y se utilizan bajo la [StatsBomb Open Data License](ENLACE-A-LA-LICENCIA).
 
-![StatsBomb](docs/hudl-statsbomb-logo-default.png)
+ <img src="docs/hudl-statsbomb-logo-default.png" alt="StatsBomb" width="250">

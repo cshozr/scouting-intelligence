@@ -1,4 +1,9 @@
-# scouting-intelligence
-Repositorio dedicado al scouting deportivo y análisis de datos de futbolistas. Esta herramienta permite filtrar, evaluar y comparar perfiles de jugadores utilizando métricas de rendimiento avanzadas para facilitar la toma de decisiones en clubes y agencias de representación.
-## Atribución de Datos
-Los datos de eventos utilizados en este proyecto son propiedad de [StatsBomb](https://statsbomb.com) y se utilizan bajo la licencia [StatsBomb Open Data License](https://github.com).
+# Scouting Intelligence
+
+Repositorio dedicado al scouting deportivo y análisis de datos de futbolistas...
+
+## Atribución de datos
+
+Datos: [StatsBomb](https://statsbomb.com). Los datos de eventos son propiedad de StatsBomb y se utilizan bajo la [StatsBomb Open Data License](ENLACE-A-LA-LICENCIA).
+
+![StatsBomb](docs/statsbomb-logo.png)
